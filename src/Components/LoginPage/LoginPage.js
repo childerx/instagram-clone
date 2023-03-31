@@ -7,6 +7,7 @@ import fb from '../../images/fb.png';
 import appstore from '../../images/app.png';
 import playstore from '../../images/play.png';
 import SignIn from "../SignIn/SignIn";
+import Signup from "../SignupPage/SignupPage";
 
 class LoginPage extends Component {
     constructor(props) {
@@ -28,7 +29,8 @@ class LoginPage extends Component {
                         <div className="loginpage_rightcomponent">
                             <img className="loginpage_logo" src={insta_logo} />
                            <div className="loginpage_signin">
-                               <SignIn/>
+                                {/* <SignIn/> */}
+                               <Signup/>
                             </div>
 
                             <div className="login_ordiv">
@@ -44,7 +46,7 @@ class LoginPage extends Component {
 
                         <div className="loginpage_signupoption">
                             <div className="loginpage_signin">
-                                Don't have an account? <span style={{ "color":"#0395F6", "fontWidth":"bold"}}>Sign up</span>
+                                Have an account? <span style={{ "color":"#0395F6", "fontWidth":"bold"}}>Log in</span>
                             </div>
                             <div className="loginpage_downloadSection">
                                 <div>
