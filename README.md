@@ -11,4 +11,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-The clone is just on the User Interface original instagram web so there's no server side to manage interactions such as comments and reactions to post as well as communications between users. 
+The clone is just the User Interface of the original instagram web so there's no server side to manage interactions such as comments and reactions to post as well as communications between users. 
