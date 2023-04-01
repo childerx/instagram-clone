@@ -12,3 +12,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 The clone is just the User Interface of the original instagram web so there's no server side to manage interactions such as comments and reactions to post as well as communications between users. 
+
+Completed this taks in a group of 3 people
