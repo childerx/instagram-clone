@@ -26,5 +26,5 @@ Completed this task in a group of 4 people
 We have: <br>
 <li> Abu Nana Kwame Isaac with student ID(10974843)</li> <br>
 <li>Adenutsi Andy Eleos with student ID(10974829)</li> <br>
-Animasahun Stephen Ola Dayo with student ID(10976019) <br>
-Clottey Cecil Robert N.K with student ID(10959224)
+<li>Animasahun Stephen Ola Dayo with student ID(10976019)</li> <br>
+<li>Clottey Cecil Robert N.K with student ID(10959224)</li>
