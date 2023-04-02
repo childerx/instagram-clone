@@ -24,7 +24,7 @@ The clone is just the User Interface of the original instagram web so there's no
 
 Completed this task in a group of 4 people
 We have: <br>
-Abu Nana Kwame Isaac with student ID(10974843) <br>
-Adenutsi Andy Eleos with student ID(10974829) <br>
+<li> Abu Nana Kwame Isaac with student ID(10974843)</li> <br>
+<li>Adenutsi Andy Eleos with student ID(10974829)</li> <br>
 Animasahun Stephen Ola Dayo with student ID(10976019) <br>
 Clottey Cecil Robert N.K with student ID(10959224)
