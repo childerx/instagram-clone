@@ -14,4 +14,7 @@ You may also see any lint errors in the console.
 The clone is just the User Interface of the original instagram web so there's no server side to manage interactions such as comments and reactions to post as well as communications between users. 
 
 Completed this task in a group of 3 people
-We have Abu Nana Kwame Isaac with student ID(10974843), Adenutsi Andy Eleos with student ID(10974829) and Animasahun Stephen Ola Dayo with student ID(10976019)
+We have:
+Abu Nana Kwame Isaac with student ID(10974843)
+Adenutsi Andy Eleos with student ID(10974829) and 
+Animasahun Stephen Ola Dayo with student ID(10976019)
